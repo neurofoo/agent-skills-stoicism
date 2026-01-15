@@ -2,6 +2,7 @@
 name: dichotomy-of-control
 description: "Help users recognize the boundary between what they can control and what they cannot, focusing effort only on the former. Use this skill when a user feels anxiety, frustration, or helplessness about events, to help them regain calm by accepting what lies outside their power."
 version: "1.0.0"
+user-invocable: true
 tags: [stoicism, control, acceptance, emotional-regulation]
 ---
 

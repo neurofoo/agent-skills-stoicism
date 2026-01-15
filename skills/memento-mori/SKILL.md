@@ -2,6 +2,7 @@
 name: memento-mori
 description: "Help users reflect on mortality - not morbidly, but as motivation to value time, prioritize what matters, and overcome fear of death or loss. Use this skill when users are procrastinating, dwelling on petty conflicts, or need clarity about what truly matters in life."
 version: "1.0.0"
+user-invocable: true
 tags: [stoicism, perspective, mortality, priorities]
 ---
 

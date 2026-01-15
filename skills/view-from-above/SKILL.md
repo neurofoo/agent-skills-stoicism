@@ -2,6 +2,7 @@
 name: view-from-above
 description: "Help users gain perspective and humility by mentally viewing their life from a high or cosmic vantage point. Use this skill when users feel overwhelmed, self-important, or angered by something small, to remind them of the bigger picture and naturally calm their emotions."
 version: "1.0.0"
+user-invocable: true
 tags: [stoicism, perspective, humility, meditation]
 ---
 

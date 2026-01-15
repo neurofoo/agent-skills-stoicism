@@ -2,6 +2,7 @@
 name: premeditatio-malorum
 description: "Guide users through Stoic negative visualization - calmly imagining potential misfortunes before they occur to lessen shock and build resilience. Use this skill when users are preparing for challenges or feeling anxious about the future, helping them face adversity with equanimity and gratitude instead of fear."
 version: "1.0.0"
+user-invocable: true
 tags: [stoicism, resilience, preparation, visualization]
 ---
 

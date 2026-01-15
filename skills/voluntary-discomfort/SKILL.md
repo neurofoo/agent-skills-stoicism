@@ -2,6 +2,7 @@
 name: voluntary-discomfort
 description: "Help users build resilience by intentionally exposing themselves to mild discomforts or deprivation. Use this skill to guide users through practicing hardship (fasting, cold exposure, frugal living) so they develop fortitude and won't be distressed if such conditions occur involuntarily."
 version: "1.0.0"
+user-invocable: true
 tags: [stoicism, resilience, training, hardship]
 ---
 

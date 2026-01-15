@@ -2,6 +2,7 @@
 name: prepare-for-adversity
 description: "Composite resilience-building practice combining foreseeing troubles (premeditatio-malorum) and training under voluntary hardship (voluntary-discomfort). Use this meta-skill when life is stable to actively toughen users' minds and bodies for future challenges, so they meet crises with readiness and calm."
 version: "1.0.0"
+user-invocable: true
 tags: [stoicism, resilience, preparation, meta-skill]
 ---
 

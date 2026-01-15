@@ -2,6 +2,7 @@
 name: embrace-fate
 description: "Meta-skill combining Stoic acceptance and love of fate (dichotomy-of-control + amor-fati). Use this skill when users encounter an outcome they did not want or cannot change - it guides them first to discern what's not in their power, then to wholeheartedly accept and appreciate reality as it is."
 version: "1.0.0"
+user-invocable: true
 tags: [stoicism, acceptance, perspective, meta-skill]
 ---
 

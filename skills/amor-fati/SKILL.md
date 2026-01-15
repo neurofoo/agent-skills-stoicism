@@ -2,6 +2,7 @@
 name: amor-fati
 description: "Help users cultivate love of fate - not just accepting but embracing all that happens. Use this skill to help users respond to any outcome, good or bad, with gratitude and curiosity, viewing it as the right step in their journey. Combines Stoic acceptance with an optimistic twist."
 version: "1.0.0"
+user-invocable: true
 tags: [stoicism, acceptance, fate, resilience]
 ---
 

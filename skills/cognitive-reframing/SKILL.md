@@ -2,6 +2,7 @@
 name: cognitive-reframing
 description: "Help users apply Stoic reasoning to reinterpret situations and soothe negative emotions. Use this skill when users experience strong feelings (anger, fear, hurt) from their initial judgment about an event, helping them step back, examine whether that judgment is true or helpful, and adopt a calmer perspective."
 version: "1.0.0"
+user-invocable: true
 tags: [stoicism, reasoning, emotion, cognitive]
 ---
 
