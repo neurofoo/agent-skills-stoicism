@@ -1,0 +1,29 @@
+{
+  "name": "stoic-skills",
+  "owner": {
+    "name": "neurofoo",
+    "email": "neurofoo@users.noreply.github.com"
+  },
+  "metadata": {
+    "description": "Stoic philosophy skills for emotional resilience and rational thinking",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "stoic-skills",
+      "description": "9 Stoic philosophy skills for building resilience, managing emotions, and cultivating wisdom",
+      "source": "./",
+      "skills": [
+        "./skills/dichotomy-of-control",
+        "./skills/premeditatio-malorum",
+        "./skills/voluntary-discomfort",
+        "./skills/view-from-above",
+        "./skills/memento-mori",
+        "./skills/amor-fati",
+        "./skills/cognitive-reframing",
+        "./skills/prepare-for-adversity",
+        "./skills/embrace-fate"
+      ]
+    }
+  ]
+}
